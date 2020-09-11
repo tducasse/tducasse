@@ -20,6 +20,7 @@ Here's a list of all (I _think_) the languages I've written code in!
 - Elixir (Phoenix), mostly because I wanted to learn a very functional language
 - Golang (have a look at [this project](https://github.com/tducasse/go-instabot))
 - R for random data analysis and stats
+- GDScript (the language used by the open source game engine, [Godot](https://godotengine.org/)). I actually have an ongoing side project in Godot, but it's not open source _yet_!
 
 ### Languages I've learned just because, but not done anything meaningful with _yet_
 - Rust: it looks great, but the memory model was a bit hard to understand, so I didn't really dive deeper
