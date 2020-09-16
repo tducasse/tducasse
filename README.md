@@ -40,9 +40,11 @@ Here's a list of all (I _think_) the languages I've written code in!
 ## Things I'm doing right now
 I've decided to try to do a "weekend-size" project every weekend, just to try out a new piece of tech, or just an idea that I find interesting!
 
-
+## Random
+### Quick overview of my activity
 [![trophy](https://github-profile-trophy.vercel.app/?username=tducasse&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Octo Ring
 > I'm part of the [octo-ring](https://octo-ring.com/)! Follow these links to browse profiles:
 * [previous](https://octo-ring.com/p/tducasse/prev)
 * [random](https://octo-ring.com/p/tducasse/random)
