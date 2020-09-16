@@ -37,6 +37,9 @@ Here's a list of all (I _think_) the languages I've written code in!
 - SQL (Potsgres, MySQL, Oracle)
 - MongoDB
 
+## Things I'm doing right now
+I've decided to try to do a "weekend-size" project every weekend, just to try out a new piece of tech, or just an idea that I find interesting!
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tducasse&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
