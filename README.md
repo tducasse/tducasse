@@ -44,6 +44,8 @@ I've created a badge that you can add to your repo to identify it as a "weekend 
 
 [![weekend list](https://the-weekend-project.vercel.app/api/count?user=tducasse)](https://the-weekend-project.vercel.app/api/list?user=tducasse)
 
+Read more about it [here](https://tducasse.com/posts/the-weekend-project/).
+
 ## Random
 ### Quick overview of my activity
 [![trophy](https://github-profile-trophy.vercel.app/?username=tducasse&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
