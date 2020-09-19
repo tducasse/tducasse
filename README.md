@@ -39,6 +39,7 @@ Here's a list of all (I _think_) the languages I've written code in!
 
 ## Things I'm doing right now
 I've decided to try to do a "weekend-size" project every weekend, just to try out a new piece of tech, or just an idea that I find interesting!
+![weekend list](https://the-weekend-project.vercel.app/api/list?user=tducasse)
 
 ## Random
 ### Quick overview of my activity
