@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm a french 🥖 software developer, currently living in Melbourne, Australia. I work at [Mentorloop](https://mentorloop.com/), where I help build a mentoring platform.
+I'm a french 🥖 software developer, currently living in Melbourne, Australia.
 I guess these days you could say I'm a JavaScript developer, but I prefer to think of myself as a polyvalent everything-around-software guy 👨‍💻. In fact, I quickly get bored, so I make sure I keep learning new things all the time!
 
 I'm currently interested in data science and machine learning. I want to build software that makes an impact, and I love the idea of open source in general - I truly believe we can build great things as a giant distributed global team.
