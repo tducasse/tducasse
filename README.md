@@ -20,6 +20,7 @@ Here's a list of all (I _think_) the languages I've written code in!
 - Elixir (Phoenix), mostly because I wanted to learn a very functional language
 - Golang (have a look at [this project](https://github.com/tducasse/go-instabot))
 - R for random data analysis and stats
+- Ruby, mostly small scripts, and for the fact the syntax is super terse
 - GDScript (the language used by the open source game engine, [Godot](https://godotengine.org/)). I actually have an ongoing side project in Godot, but it's not open source _yet_!
 
 ### Languages I've learned just because, but not done anything meaningful with _yet_
@@ -49,10 +50,4 @@ Read more about it [here](https://tducasse.com/posts/the-weekend-project/).
 ## Random
 ### Quick overview of my activity
 [![trophy](https://github-profile-trophy.vercel.app/?username=tducasse&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Octo Ring
-> I'm part of the [octo-ring](https://octo-ring.com/)! Follow these links to browse profiles:
-* [previous](https://octo-ring.com/p/tducasse/prev)
-* [random](https://octo-ring.com/p/tducasse/random)
-* [next](https://octo-ring.com/p/tducasse/next)
 
