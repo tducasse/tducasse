@@ -21,7 +21,7 @@ Here's a list of all (I _think_) the languages I've written code in!
 - Golang (have a look at [this project](https://github.com/tducasse/go-instabot))
 - R for random data analysis and stats
 - Ruby, mostly small scripts, and for the fact the syntax is super terse
-- GDScript (the language used by the open source game engine, [Godot](https://godotengine.org/)). I actually have an ongoing side project in Godot, but it's not open source _yet_!
+- GDScript (the language used by the open source game engine, [Godot](https://godotengine.org/)). See these 2 projects [here](https://github.com/tducasse/poc-turn-based) and [here](https://github.com/tducasse/poc-roguelite).
 
 ### Languages I've learned just because, but not done anything meaningful with _yet_
 - Rust: it looks great, but the memory model was a bit hard to understand, so I didn't really dive deeper
