@@ -15,6 +15,7 @@ Here's a list of all (I _think_) the languages I've written code in!
 - Python (Django, Flask)
 - JavaScript for the backend (Node.js, Meteor)
 - JavaScript for the frontend (React, Vue.js)
+- Serverless
 
 ### Languages I've toyed with in side projects
 - Elixir (Phoenix), mostly because I wanted to learn a very functional language
