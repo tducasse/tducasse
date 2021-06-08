@@ -4,7 +4,7 @@ I guess these days you could say I'm a JavaScript developer, but I prefer to thi
 
 I want to build software that makes an impact, and I love the idea of open source in general - I truly believe we can build great things as a giant distributed global team.
 
-I'm also (I like to think 😬) a hobbyist game developer, most proficient with [Godot](https://godotengine.org/).
+I'm also (I like to think 😬) a hobbyist game developer, most proficient with [Godot](https://godotengine.org/). You can play my _finished_ games [here](https://tducasse.itch.io).
 
 
 ## 💻 Languages I've coded in
@@ -29,7 +29,7 @@ Here's a list of all (I _think_) the languages I've written code in!
 
 ### Languages I use for Game Dev
 - GDScript (the language used by the open source game engine, [Godot](https://godotengine.org/)). See some of my games [here](https://github.com/tducasse?tab=repositories&q=godot)
-- Lua, mostly in the context of [PICO-8](https://www.lexaloffle.com/pico-8.php), a "fantasy-console" for making tiny games in a retro style
+- Lua, mostly in the context of [PICO-8](https://www.lexaloffle.com/pico-8.php), a "fantasy-console" for making tiny games in a retro style. See some games [here](https://github.com/tducasse?tab=repositories&q=pico-8)
 
 
 ### Languages I've learned just because, but not done anything meaningful with _yet_
