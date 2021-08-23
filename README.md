@@ -57,6 +57,7 @@ As part of my game dev journey, I've worked with and learned:
 - [Godot](https://godotengine.org/), an open source game engine
 - [PICO-8](https://www.lexaloffle.com/pico-8.php), a "fantasy-console" to make retro games
 - [LÖVE](https://love2d.org/), a 2D game framework in Lua
+- [raylib](https://www.raylib.com/) a C game dev library
 - [Unity](https://unity.com/), another game engine, actually the first one I learned
 - [Krita](https://krita.org/en/), an open source digital painting software (that I use with a drawing tablet)
 - [Aseprite](https://www.aseprite.org/), a pixel-art sprite and animation editor
@@ -66,15 +67,8 @@ As part of my game dev journey, I've worked with and learned:
 You can find most of my gamedev related projects [on github](https://github.com/tducasse?tab=repositories&q=gamedev), and some of my games can be played on [itch.io](tducasse.itch.io).
 
 ## Random
-### The "weekend-project" project
-I've decided to try to do a "weekend-size" project every weekend, just to try out a new piece of tech, or just an idea that I find interesting!
-
-I've created a badge that you can add to your repo to identify it as a "weekend project", so that they count towards this total:
-
-[![weekend list](https://the-weekend-project.vercel.app/api/count?user=tducasse)](https://the-weekend-project.vercel.app/api/list?user=tducasse)
-
-Read more about it [here](https://tducasse.com/posts/the-weekend-project/).
 
 ### Quick overview of my activity
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tducasse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=tducasse&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
