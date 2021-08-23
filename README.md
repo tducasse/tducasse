@@ -4,7 +4,7 @@ I guess these days you could say I'm a JavaScript developer, but I prefer to thi
 
 I want to build software that makes an impact, and I love the idea of open source in general - I truly believe we can build great things as a giant distributed global team.
 
-I'm also (I like to think 😬) a hobbyist game developer, most proficient with [Godot](https://godotengine.org/). You can play my _finished_ games [here](https://tducasse.itch.io).
+I'm also (I like to think 😬) a hobbyist game developer!. You can play my _finished_ games [here](https://tducasse.itch.io).
 
 
 ## 💻 Languages I've coded in
@@ -28,8 +28,8 @@ Here's a list of all (I _think_) the languages I've written code in!
 
 
 ### Languages I use for Game Dev
-- GDScript (the language used by the open source game engine, [Godot](https://godotengine.org/)). See some of my games [here](https://github.com/tducasse?tab=repositories&q=godot)
-- Lua, mostly in the context of [PICO-8](https://www.lexaloffle.com/pico-8.php), a "fantasy-console" for making tiny games in a retro style. See some games [here](https://github.com/tducasse?tab=repositories&q=pico-8)
+- GDScript (the language used by the open source game engine, [Godot](https://godotengine.org/)).
+- Lua, mostly in the context of [PICO-8](https://www.lexaloffle.com/pico-8.php), a "fantasy-console" for making tiny games in a retro style, and [LÖVE](https://love2d.org/), the 2D game dev framework.
 
 
 ### Languages I've learned just because, but not done anything meaningful with _yet_
@@ -39,7 +39,7 @@ Here's a list of all (I _think_) the languages I've written code in!
 
 
 ### Languages I've forgotten but once knew 🙄
-- C/C++: I can probably _read_ it
+- C/C++: I can probably _read_ it. I've also toyed with it with my own game engine experiment [here](https://github.com/tducasse/game_engine)
 - Lisp: I wonder if I even knew what I was doing at the time
 
 
@@ -56,9 +56,14 @@ I like building games, and I think that game development is one of the most comp
 As part of my game dev journey, I've worked with and learned:
 - [Godot](https://godotengine.org/), an open source game engine
 - [PICO-8](https://www.lexaloffle.com/pico-8.php), a "fantasy-console" to make retro games
+- [LÖVE](https://love2d.org/), a 2D game framework in Lua
 - [Unity](https://unity.com/), another game engine, actually the first one I learned
 - [Krita](https://krita.org/en/), an open source digital painting software (that I use with a drawing tablet)
 - [Aseprite](https://www.aseprite.org/), a pixel-art sprite and animation editor
+- [LDtk](https://ldtk.io/), a level designer
+- [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil), a tool to create "chiptune style" music for games
+
+You can find most of my gamedev related projects [on github](https://github.com/tducasse?tab=repositories&q=gamedev), and some of my games can be played on [itch.io](tducasse.itch.io).
 
 ## Random
 ### The "weekend-project" project
