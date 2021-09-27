@@ -23,7 +23,7 @@ Here's a list of all (I _think_) the languages I've written code in!
 
 ### Languages I've toyed with in side projects
 - Elixir (Phoenix), mostly because I wanted to learn a very functional language
-- Golang (have a look at [this project](https://github.com/tducasse/go-instabot))
+- Go (have a look at [this project](https://github.com/tducasse/go-instabot)), but also these [game dev libs](https://github.com/tducasse?tab=repositories&q=ebiten&type=&language=&sort=)
 - Ruby, mostly small scripts, and for the fact the syntax is super terse
 
 
@@ -55,6 +55,7 @@ I like building games, and I think that game development is one of the most comp
 
 As part of my game dev journey, I've worked with and learned:
 - [Godot](https://godotengine.org/), an open source game engine
+- [Ebiten](https://ebiten.org/), a game library written in Go
 - [PICO-8](https://www.lexaloffle.com/pico-8.php), a "fantasy-console" to make retro games
 - [LÖVE](https://love2d.org/), a 2D game framework in Lua
 - [raylib](https://www.raylib.com/) a C game dev library
