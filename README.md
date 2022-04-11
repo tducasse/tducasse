@@ -30,6 +30,7 @@ Here's a list of all (I _think_) the languages I've written code in!
 ### Languages I use for Game Dev
 - GDScript (the language used by the open source game engine, [Godot](https://godotengine.org/)).
 - Lua, mostly in the context of [PICO-8](https://www.lexaloffle.com/pico-8.php), a "fantasy-console" for making tiny games in a retro style, and [LÖVE](https://love2d.org/), the 2D game dev framework.
+- Nim, in which I'm writing my own [game engine](https://github.com/yota-engine/yota-engine)
 
 
 ### Languages I've learned just because, but not done anything meaningful with _yet_
@@ -58,7 +59,8 @@ As part of my game dev journey, I've worked with and learned:
 - [Ebiten](https://ebiten.org/), a game library written in Go
 - [PICO-8](https://www.lexaloffle.com/pico-8.php), a "fantasy-console" to make retro games
 - [LÖVE](https://love2d.org/), a 2D game framework in Lua
-- [raylib](https://www.raylib.com/) a C game dev library
+- [raylib](https://www.raylib.com/), a C game dev library
+- [nim](https://nim-lang.org/), an expressive but performant compiled language
 - [Unity](https://unity.com/), another game engine, actually the first one I learned
 - [Krita](https://krita.org/en/), an open source digital painting software (that I use with a drawing tablet)
 - [Aseprite](https://www.aseprite.org/), a pixel-art sprite and animation editor
