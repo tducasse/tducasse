@@ -30,7 +30,7 @@ Here's a list of all (I _think_) the languages I've written code in!
 ### Languages I use for Game Dev
 - GDScript (the language used by the open source game engine, [Godot](https://godotengine.org/)).
 - Lua, mostly in the context of [PICO-8](https://www.lexaloffle.com/pico-8.php), a "fantasy-console" for making tiny games in a retro style, and [LÖVE](https://love2d.org/), the 2D game dev framework.
-- Nim, in which I'm writing my own [game engine](https://github.com/yota-engine/yota-engine)
+- Nim, in which I have tried writing my own [game engine](https://github.com/tducasse/nim-game-engine)
 
 
 ### Languages I've learned just because, but not done anything meaningful with _yet_
