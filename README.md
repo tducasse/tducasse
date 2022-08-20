@@ -1,5 +1,5 @@
 # Hey! 👋
-I'm a french 🥖 software developer, currently living in Melbourne, Australia.
+I'm a french 🥖 software developer, currently living in Boston, Massachussets.
 I guess these days you could say I'm a JavaScript developer, but I prefer to think of myself as a polyvalent everything-around-software guy 👨‍💻. In fact, I quickly get bored, so I make sure I keep learning new things all the time!
 
 I want to build software that makes an impact, and I love the idea of open source in general - I truly believe we can build great things as a giant distributed global team.
