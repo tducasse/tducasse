@@ -67,4 +67,4 @@ As part of my game dev journey, I've worked with and learned:
 - [LDtk](https://ldtk.io/), a level designer
 - [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil), a tool to create "chiptune style" music for games
 
-You can find most of my gamedev related projects [on github](https://github.com/tducasse?tab=repositories&q=gamedev), and some of my games can be played on [itch.io](tducasse.itch.io).
+You can find most of my gamedev related projects [on github](https://github.com/tducasse?tab=repositories&q=gamedev), and some of my games can be played on [itch.io](https://tducasse.itch.io).
