@@ -19,10 +19,11 @@ Here's a list of all (I _think_) the languages I've written code in!
 - JavaScript for the backend (Node.js, Meteor)
 - JavaScript for the frontend (React, Vue.js)
 - JavaScript in the cloud ☁ (Serverless)
+- TypeScript, alongside JavaScript, in _some_ projects
 
 
 ### Languages I've toyed with in side projects
-- Elixir (Phoenix), mostly because I wanted to learn a very functional language
+- Elixir (Phoenix), mostly because I wanted to learn a functional language
 - Go (have a look at [this project](https://github.com/tducasse/go-instabot)), but also these [game dev libs](https://github.com/tducasse?tab=repositories&q=ebiten&type=&language=&sort=)
 - Ruby, mostly small scripts, and for the fact the syntax is super terse
 
@@ -31,6 +32,7 @@ Here's a list of all (I _think_) the languages I've written code in!
 - GDScript (the language used by the open source game engine, [Godot](https://godotengine.org/)).
 - Lua, mostly in the context of [PICO-8](https://www.lexaloffle.com/pico-8.php), a "fantasy-console" for making tiny games in a retro style, and [LÖVE](https://love2d.org/), the 2D game dev framework.
 - Nim, in which I have tried writing my own [game engine](https://github.com/tducasse/nim-game-engine)
+- C++, in which I have also played with the idea of writing my own [game engine](https://github.com/tducasse/cpp-game-engine)
 
 
 ### Languages I've learned just because, but not done anything meaningful with _yet_
@@ -40,19 +42,19 @@ Here's a list of all (I _think_) the languages I've written code in!
 
 
 ### Languages I've forgotten but once knew 🙄
-- C/C++: I can probably _read_ it. I've also toyed with it with my own game engine experiment [here](https://github.com/tducasse/game_engine)
+- C/C++: I can probably _read_ it. I've also toyed with it with my own game engine experiment [here](https://github.com/tducasse/cpp-game-engine)
 - Lisp: I wonder if I even knew what I was doing at the time
 
 
 ## ⚙ Random pieces of tech I've worked with
 - Docker, Docker Swarm
-- Jenkins, Circle CI, GitLab CI
+- Jenkins, Circle CI, GitLab CI, GitHub Actions
 - SQL (Potsgres, MySQL, Oracle)
 - MongoDB
 
 
 ## 🎮 Game Dev
-I like building games, and I think that game development is one of the most complex parts of software development I've been exposed too, mostly because it doesn't involve _just_ code, but also art, music, story telling, design, UX, UI, etc.
+I like building games, and I think that game development is one of the most complex software development tasks I've been exposed to, mostly because it doesn't involve _only_ code, but also art, music, story telling, design, UX, UI, etc.
 
 As part of my game dev journey, I've worked with and learned:
 - [Godot](https://godotengine.org/), an open source game engine
