@@ -23,9 +23,9 @@ Here's a list of all (I _think_) the languages I've written code in!
 
 
 ### Languages I've toyed with in side projects
+- I have a sandbox "custom unix shell" written in multiple languages [here](https://github.com/tducasse/ysh)
 - Elixir (Phoenix), mostly because I wanted to learn a functional language
 - Go (have a look at [this project](https://github.com/tducasse/go-instabot)), but also these [game dev libs](https://github.com/tducasse?tab=repositories&q=ebiten&type=&language=&sort=)
-- Ruby, mostly small scripts, and for the fact the syntax is super terse
 
 
 ### Languages I use for Game Dev
@@ -39,6 +39,7 @@ Here's a list of all (I _think_) the languages I've written code in!
 - Rust: it looks great, but the memory model was a bit hard to understand, so I didn't really dive deeper
 - Clojure: I really like the idea of learning a Lisp inspired language, but I haven't found a use case that's not already covered by the other languages I know
 - MATLAB and R: most of my friends work in science, and sometimes they need help!
+- Ruby, mostly small scripts, and for the fact the syntax is super terse
 
 
 ### Languages I've forgotten but once knew 🙄
