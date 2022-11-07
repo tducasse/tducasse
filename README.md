@@ -71,3 +71,6 @@ As part of my game dev journey, I've worked with and learned:
 - [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil), a tool to create "chiptune style" music for games
 
 You can find most of my gamedev related projects [on github](https://github.com/tducasse?tab=repositories&q=gamedev), and some of my games can be played on [itch.io](https://tducasse.itch.io).
+
+## Social
+I'm on <a rel="me" href="https://mastodon.gamedev.place/@tducasse">Mastodon</a> and [Twitter](https://twitter.com/tducasse), and my handle is `tducasse` everywhere I get to be 😄
