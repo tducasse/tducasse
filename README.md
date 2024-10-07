@@ -16,14 +16,14 @@ Here's a list of all (I _think_) the languages I've written code in!
 - Java (J2EE)
 - PHP (Symfony)
 - Python (Django, Flask)
-- JavaScript for the backend (Node.js, Meteor)
-- JavaScript for the frontend (React, Vue.js)
-- JavaScript in the cloud ☁ (Serverless)
-- TypeScript, alongside JavaScript, in _some_ projects
+- JavaScript/TypeScript:
+    -  backend (Node.js, Meteor)
+    -  frontend (React, Vue.js)
+    -  cloud ☁ (Serverless)
+- Ruby (rails)
 
 
 ### Languages I've toyed with in side projects
-- I have a sandbox "custom unix shell" written in multiple languages [here](https://github.com/tducasse/ysh)
 - Elixir (Phoenix), mostly because I wanted to learn a functional language
 - Go (have a look at [this project](https://github.com/tducasse/go-instabot)), but also these [game dev libs](https://github.com/tducasse?tab=repositories&q=ebiten&type=&language=&sort=)
 
