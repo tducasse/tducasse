@@ -1,11 +1,8 @@
 # Hey! 👋
 I'm a french 🥖 software developer, currently living in London, UK.
-I guess these days you could say I'm a JavaScript developer, but I prefer to think of myself as a polyvalent everything-around-software guy 👨‍💻. In fact, I quickly get bored, so I make sure I keep learning new things all the time!
-
-I want to build software that makes an impact, and I love the idea of open source in general - I truly believe we can build great things as a giant distributed global team.
+I guess these days you could say I'm a TypeScript developer 👨‍💻. But I like trying new things, so I make sure I keep learning all the time!
 
 I'm also (I like to think 😬) a hobbyist game developer!. You can play my _finished_ games [here](https://tducasse.itch.io).
-
 
 ## 💻 Languages I've coded in
 
