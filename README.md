@@ -36,7 +36,6 @@ Here's a list of all (I _think_) the languages I've written code in!
 - Rust: it looks great, but the memory model was a bit hard to understand, so I didn't really dive deeper
 - Clojure: I really like the idea of learning a Lisp inspired language, but I haven't found a use case that's not already covered by the other languages I know
 - MATLAB and R: most of my friends work in science, and sometimes they need help!
-- Ruby, mostly small scripts, and for the fact the syntax is super terse
 
 
 ### Languages I've forgotten but once knew 🙄
